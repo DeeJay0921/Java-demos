@@ -1,5 +1,5 @@
 
-pulic class FinalDemo {
+public class FinalDemo {
 	public static void main(String[] args) {
 		Animal3 a3 = new Animal3();
 		// a3.num = 10; // the final fields cannot be assigned  final修饰的成员变量不可以被赋值，哪怕赋的是原值。即是常量,一般命名使用大写。
