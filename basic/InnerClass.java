@@ -1,4 +1,4 @@
-
+// 成员内部类 使用
 public class InnerClass {
 	public static void main(String[] args) {
 		Outer o = new Outer();
