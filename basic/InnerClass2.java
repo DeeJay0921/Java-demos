@@ -1,3 +1,4 @@
+// 成员内部类 private static 修饰
 public class InnerClass2 {
     public static void main(String[] args) {
 		 // Outer.Inner i = new Outer().new Inner(); //  由于Inner被private修饰 提示Outer.Inner不可见
